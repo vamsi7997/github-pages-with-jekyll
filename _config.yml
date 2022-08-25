@@ -1,5 +1,5 @@
 -----
-title: My Github Live pages
+title: My-Github-Live-pages
 theme: minima
 author: vamsi Devarapalli
 email: vamsi63042@bmail.com
@@ -9,7 +9,7 @@ description: > hi .. my name is vamsi and i am from ap and i joined in apollo as
   Google search results) and in your feed.xml site description.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: vamsi-Devarapalli # DO NOT include the @ character, or else the build will fail!
 github_username:  vamsi7997# DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
