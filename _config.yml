@@ -1,5 +1,5 @@
------
-title: My-Github-Live-pages
+---
+title: "My-Github-Live-pages"
 theme: minima
 author: vamsi Devarapalli
 email: vamsi63042@bmail.com
@@ -13,4 +13,4 @@ twitter_username: vamsi-Devarapalli # DO NOT include the @ character, or else th
 github_username:  vamsi7997# DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-------
+---
