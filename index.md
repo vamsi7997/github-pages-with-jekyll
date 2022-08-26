@@ -10,4 +10,3 @@ hii  my name is vamsi...
 __next.js ,node.js__
 [newimage](https://pixabay.com/images/search/nature/)
 <h1>this is my repository</h1>
-😄
